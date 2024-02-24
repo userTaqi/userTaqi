@@ -11,9 +11,13 @@
 <h3 align="left">Personal Projects:</h3>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://usertaqi.github.io/PortfolioWebsite/Images/image.png" width="350" title="hover text">
-  <h3 style="margin-left: 20px;">Real-time weather information. Using WeatherAPI.com, it provides current conditions in a clean, minimalist interface.</h3>
+  <img src="https://usertaqi.github.io/PortfolioWebsite/Images/image.png" width="350" title="hover text" style="margin-right: 20px;">
+  <div>
+    <h3>Real-time weather information.</h3>
+    <p>Using WeatherAPI.com, it provides current conditions in a clean, minimalist interface.</p>
+  </div>
 </div>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
