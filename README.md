@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **t.eddin.hasan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ba-rl45JuOkWoNVYprygEq-J0VlRzhEO/view?usp=sharing](https://drive.google.com/file/d/1ba-rl45JuOkWoNVYprygEq-J0VlRzhEO/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ba-rl45JuOkWoNVYprygEq-J0VlRzhEO/view?usp=sharing" rel="nofollow">CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
