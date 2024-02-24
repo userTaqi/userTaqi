@@ -10,13 +10,11 @@
 
 <h3 align="left">Personal Projects:</h3>
 
-<div style="display: flex; align-items: center;">
-  <img src="https://usertaqi.github.io/PortfolioWebsite/Images/image.png" width="350" title="hover text" style="margin-right: 20px;">
-  <div>
-    <h3>Real-time weather information.</h3>
-    <p>Using WeatherAPI.com, it provides current conditions in a clean, minimalist interface.</p>
-  </div>
-</div>
+<h3 align="center">Google Weather Extension:</h3>
+<p align="center">
+  <img src="https://usertaqi.github.io/PortfolioWebsite/Images/image.png" width="350" title="hover text">
+</p>
+<h3 align="left">Real-time weather information. Using WeatherAPI.com, it provides current conditions in a clean, minimalist interface.</h3>
 
 
 
