@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taqi Hasan</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 
-- 🔭 I’m currently working on **Android Application**
+- 🔭 I’m currently working on an **Android Application**
 
 - 📫 How to reach me **t.eddin.hasan@gmail.com**
 
