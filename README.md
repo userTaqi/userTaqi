@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Taqi Hasan</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 
+- 🔭 I’m currently working on **Android Application**
+
 - 📫 How to reach me **t.eddin.hasan@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ba-rl45JuOkWoNVYprygEq-J0VlRzhEO/view?usp=sharing" rel="nofollow">CV</a>
