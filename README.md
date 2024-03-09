@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Taqi Hasan</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 
+<p align="left">
+<a href="https://www.leetcode.com/taqi hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="taqi hasan" height="30" width="40" /></a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usertaqi&label=Profile%20views&color=0e75b6&style=flat" alt="usertaqi" /> </p>
 
 - 🔭 I’m currently working on an **Android Application**
